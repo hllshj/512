@@ -6,7 +6,7 @@ import java.util.Date;
  * 
 * @ClassName: Cuisine 
 * @Description: 菜系实体类
-* @author 柴含冰
+* @author 柴含冰123456
 * @date 2017年12月24日 下午1:39:30 
 *
  */
